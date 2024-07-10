@@ -22,3 +22,13 @@
 ### Configured Middleware Using the `configure` Method in Modules
 - Learned how to use the `configure` method in modules to set up middleware.
 - Applied middleware configuration to streamline request handling across modules.
+
+## My Learnings Till Second Commit
+
+### Injecting Providers in NestJS
+- **useClass Providers:** Learned to inject providers using the `useClass` syntax.
+- **useValue Providers for Replacing Actual Service with MockService:** Used the `useValue` method to replace real services with mock implementations.
+- **useFactory Method for Dynamic Value Assignment:** Implemented the `useFactory` method to assign dynamic values to providers.
+- **Standard Providers Initiated by Class Providers:** Worked with standard providers initialized using class providers.
+- **Non Class-Based Providers with Token Injection:** Learned to inject non class-based providers using tokens.
+- **Non Service Provider Using useFactory:** Utilized `useFactory` for non-service providers.
